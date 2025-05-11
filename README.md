@@ -15,5 +15,5 @@ In this proejct I compare the Python's default string operations to the more mem
 4. Install requirements by using the following command:
     ```pip install -r requirements.txt```
 
-Then open the string-ops-compare.ipynb and run the notebook. Make sure that the right kernel (environment) is selected in the notebook. Run the code sequentially to reproduce the results.
+Then open the **string-ops-compare.ipynb** and run the notebook. Make sure that the right kernel (environment) is selected in the notebook. Run the code sequentially to reproduce the results.
    
